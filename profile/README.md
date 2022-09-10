@@ -1,5 +1,6 @@
 <details open>
-  <summary>Collection of Certificates</summary>
+  <summary align:"center">Collection of Certificates</summary>
+  <br>
   <table>
     <tr>  
       <th>Date</th>
