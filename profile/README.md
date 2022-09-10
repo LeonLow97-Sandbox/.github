@@ -1,3 +1,7 @@
+## Welcome to my Organisation!
+
+- 😀 This is where I store my tutorial notes and certifications! Feel free to explore! 
+
 <details open>
   <summary align:"center">Collection of Certificates</summary>
   <br>
