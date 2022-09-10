@@ -1,4 +1,4 @@
-<details>
+<details open>
   <summary>Collection of Certificates</summary>
   <table>
     <tr>  
