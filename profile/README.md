@@ -21,10 +21,38 @@
       <td>6.5 Hours</td>
     </tr>
     <tr>
+      <td>8 Sep 2022</td>
+      <td>OWASP top 10: Web Application Security for beginners</td>
+      <td>Security</td>
+      <td><a href="https://www.udemy.com/certificate/UC-9ee9f834-9128-47d4-8b27-8eb4c0036752/" target="_blank">Link</a></td>
+      <td>1.5 Hours</td>
+    </tr>
+    <tr>
+      <td>8 Sep 2022</td>
+      <td>GitLab CI: Pipelines, CI/CD and DevOps for Beginners</td>
+      <td>GitLab</td>
+      <td><a href="https://www.udemy.com/certificate/UC-1184909b-b4b6-4123-9349-d78d05ee7f13/" target="_blank">Link</a></td>
+      <td>5.5 Hours</td>
+    </tr>
+    <tr>
       <td>3 Sep 2022</td>
       <td>Go: The Complete Developer's Guide (Golang)</td>
       <td>Go</td>
       <td><a href="https://www.udemy.com/certificate/UC-2367ab93-2780-4661-bd0e-8429453ce048/" target="_blank">Link</a></td>
+      <td>9 Hours</td>
+    </tr>
+    <tr>
+      <td>22 July 2022</td>
+      <td>React for the Rest of Us</td>
+      <td>ReactJS</td>
+      <td><a href="https://www.udemy.com/certificate/UC-3681dcd0-a14b-47a1-90f5-1ddfbe4a8a7c/" target="_blank">Link</a></td>
+      <td>9 Hours</td>
+    </tr>
+    <tr>
+      <td>23 June 2022</td>
+      <td>Lean and Understand NodeJS</td>
+      <td>NodeJS</td>
+      <td><a href="https://www.udemy.com/certificate/UC-e1f99207-2779-4327-8910-e4dc8648b6d3/" target="_blank">Link</a></td>
       <td>9 Hours</td>
     </tr>
   </table>
