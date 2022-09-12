@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>12 Sep 2022</td>
+      <td>Clean Code</td>
+      <td>Clean Code</td>
+      <td><a href="https://www.udemy.com/certificate/UC-824a229c-e5b9-4693-8bf5-f164c03fc096/" target="_blank">Link</a></td>
+      <td>6.5 Hours</td>
+    </tr>
+    <tr>
       <td>3 Sep 2022</td>
       <td>Go: The Complete Developer's Guide (Golang)</td>
       <td>Go</td>
