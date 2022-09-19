@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>19 Sep 2022</td>
+      <td>Google's Go (golang) Programming Language</td>
+      <td>Go</td>
+      <td><a href="https://www.udemy.com/certificate/UC-5af41117-1c95-4084-b448-5c22cd7b6413/">Link</a></td>
+      <td>45.5 Hours</td>
+    </tr>
+    <tr>
       <td>12 Sep 2022</td>
       <td>Clean Code</td>
       <td>Clean Code</td>
