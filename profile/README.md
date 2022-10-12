@@ -55,9 +55,16 @@
       <td><a href="https://www.udemy.com/certificate/UC-3681dcd0-a14b-47a1-90f5-1ddfbe4a8a7c/" target="_blank">Link</a></td>
       <td>9 Hours</td>
     </tr>
+     <tr>
+      <td>24 June 2022</td>
+      <td>MySQL Database Administration: Beginner SQL Database Design</td>
+      <td>MySQL</td>
+      <td><a href="https://www.udemy.com/certificate/UC-afa08872-4df8-4492-8a8c-0e43115725f6/" target="_blank">Link</a></td>
+      <td>7 Hours</td>
+    </tr>
     <tr>
       <td>23 June 2022</td>
-      <td>Lean and Understand NodeJS</td>
+      <td>Learn and Understand NodeJS</td>
       <td>NodeJS</td>
       <td><a href="https://www.udemy.com/certificate/UC-e1f99207-2779-4327-8910-e4dc8648b6d3/" target="_blank">Link</a></td>
       <td>9 Hours</td>
