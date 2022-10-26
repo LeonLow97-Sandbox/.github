@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>26 Oct 2022</td>
+      <td>Web Development w/ Google's Go (golang) Programming Language</td>
+      <td>Go</td>
+      <td><a href="https://www.udemy.com/certificate/UC-46eecc21-895b-40af-b2ab-f977c55182c0/">Link</a></td>
+      <td>19 Hours</td>
+    </tr>
+    <tr>
       <td>19 Sep 2022</td>
       <td>Google's Go (golang) Programming Language</td>
       <td>Go</td>
