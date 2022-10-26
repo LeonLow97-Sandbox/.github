@@ -7,7 +7,7 @@
   <br>
   <table>
     <tr>  
-      <th>Completed Date</th>
+      <th>Date of Completion</th>
       <th>Certificate</th>
       <th>Software</th>
       <th>Link</th>
