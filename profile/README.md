@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>3 Nov 2022</td>
+      <td>JavaScript Algorithms and Data Structures Masterclass</td>
+      <td>JavaScript</td>
+      <td><a href="https://www.udemy.com/certificate/UC-f284961e-8034-4d9d-9fd9-a20ebc486c38/">Link</a></td>
+      <td>22 Hours</td>
+    </tr>
+    <tr>
       <td>26 Oct 2022</td>
       <td>Web Development w/ Google's Go (golang) Programming Language</td>
       <td>Go</td>
