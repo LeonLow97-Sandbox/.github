@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>25 Mar 2023</td>
+      <td>The Complete Java Development Bootcamp</td>
+      <td>Java</td>
+      <td><a href="https://www.udemy.com/certificate/UC-0eae483a-f79c-404c-a1c8-0edfc70a0d66/">Link</a></td>
+      <td>28.5 Hours</td>
+    </tr>
+    <tr>
       <td>3 Nov 2022</td>
       <td>JavaScript Algorithms and Data Structures Masterclass</td>
       <td>JavaScript</td>
