@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>2 Apr 2023</td>
+      <td>The Complete Spring Boot Development Bootcamp</td>
+      <td>Spring Boot</td>
+      <td><a href="https://www.udemy.com/certificate/UC-cde0b085-4b66-45ab-a16b-8a1d3a4f0acc/">Link</a></td>
+      <td>18 Hours</td>
+    </tr>
+    <tr>
       <td>25 Mar 2023</td>
       <td>The Complete Java Development Bootcamp</td>
       <td>Java</td>
