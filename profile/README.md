@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>20 May 2023</td>
+      <td>Modern React with Redux</td>
+      <td>React</td>
+      <td><a href="https://www.udemy.com/certificate/UC-a78a556f-2d42-4561-ae58-d63de9db1903/">Link</a></td>
+      <td>37.5 Hours</td>
+    </tr>
+    <tr>
       <td>2 Apr 2023</td>
       <td>The Complete Spring Boot Development Bootcamp</td>
       <td>Spring Boot</td>
@@ -79,7 +86,7 @@
     <tr>
       <td>22 Jul 2022</td>
       <td>React for the Rest of Us</td>
-      <td>ReactJS</td>
+      <td>React</td>
       <td><a href="https://www.udemy.com/certificate/UC-3681dcd0-a14b-47a1-90f5-1ddfbe4a8a7c/" target="_blank">Link</a></td>
       <td>9 Hours</td>
     </tr>
@@ -93,7 +100,7 @@
     <tr>
       <td>23 Jun 2022</td>
       <td>Learn and Understand NodeJS</td>
-      <td>NodeJS</td>
+      <td>Node</td>
       <td><a href="https://www.udemy.com/certificate/UC-e1f99207-2779-4327-8910-e4dc8648b6d3/" target="_blank">Link</a></td>
       <td>9 Hours</td>
     </tr>
