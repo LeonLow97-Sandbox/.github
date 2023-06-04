@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>4 Jun 2023</td>
+      <td>The Git & GitHub Bootcamp</td>
+      <td>Git</td>
+      <td><a href="https://www.udemy.com/certificate/UC-bd53f466-921d-4abc-b351-51deee2d7d7c/">Link</a></td>
+      <td>17 Hours</td>
+    </tr>
+    <tr>
       <td>20 May 2023</td>
       <td>Modern React with Redux</td>
       <td>React</td>
