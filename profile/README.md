@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>8 Jun 2023</td>
+      <td>Spring Security 6 Zero to Master along with JWT, OAUTH2</td>
+      <td>Spring Security</td>
+      <td><a href="https://www.udemy.com/certificate/UC-731e0edf-7b48-4456-92bb-7c04a5d5a528/">Link</a></td>
+      <td>15 Hours</td>
+    </tr>
+    <tr>
       <td>4 Jun 2023</td>
       <td>The Git & GitHub Bootcamp</td>
       <td>Git</td>
