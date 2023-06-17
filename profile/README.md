@@ -14,9 +14,16 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>17 Jun 2023</td>
+      <td>Concurrency, Multithreading and Parallel Computing in Java</td>
+      <td>Java</td>
+      <td><a href="https://www.udemy.com/certificate/UC-0b536ec4-8162-458d-a4c6-7bac6c466cff/">Link</a></td>
+      <td>10.5 Hours</td>
+    </tr>
+    <tr>
       <td>8 Jun 2023</td>
       <td>Spring Security 6 Zero to Master along with JWT, OAUTH2</td>
-      <td>Spring Security</td>
+      <td>Java, Spring Security</td>
       <td><a href="https://www.udemy.com/certificate/UC-731e0edf-7b48-4456-92bb-7c04a5d5a528/">Link</a></td>
       <td>15 Hours</td>
     </tr>
@@ -37,7 +44,7 @@
     <tr>
       <td>2 Apr 2023</td>
       <td>The Complete Spring Boot Development Bootcamp</td>
-      <td>Spring Boot</td>
+      <td>Java, Spring Boot</td>
       <td><a href="https://www.udemy.com/certificate/UC-cde0b085-4b66-45ab-a16b-8a1d3a4f0acc/">Link</a></td>
       <td>18 Hours</td>
     </tr>
