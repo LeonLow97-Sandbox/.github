@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>13 Aug 2023</td>
+      <td>Vue Masterclass (Covers Vue 2 and 3)</td>
+      <td>Vue</td>
+      <td><a href="https://www.udemy.com/certificate/UC-99da9519-e158-46f5-ad2c-357437b6cc26/">Link</a></td>
+      <td>43 Hours</td>
+    </tr>
+    <tr>
       <td>17 Jun 2023</td>
       <td>Concurrency, Multithreading and Parallel Computing in Java</td>
       <td>Java</td>
