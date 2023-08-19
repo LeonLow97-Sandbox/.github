@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>16 Aug 2023</td>
+      <td>Introduction to Testing in Go (Golang)</td>
+      <td>Go</td>
+      <td><a href="https://www.udemy.com/certificate/UC-9d3ac2eb-9c2a-4e04-8400-db751a58450d/">Link</a></td>
+      <td>12.5 Hours</td>
+    </tr>
+    <tr>
       <td>13 Aug 2023</td>
       <td>Vue Masterclass (Covers Vue 2 and 3)</td>
       <td>Vue</td>
