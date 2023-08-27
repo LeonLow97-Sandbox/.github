@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>26 Aug 2023</td>
+      <td>Working with Vue 3 and Go (Golang)</td>
+      <td>Go, Vue</td>
+      <td><a href="https://www.udemy.com/certificate/UC-f088bb74-230a-4ec3-b964-66b511e343e1/">Link</a></td>
+      <td>15 Hours</td>
+    </tr>
+    <tr>
       <td>16 Aug 2023</td>
       <td>Introduction to Testing in Go (Golang)</td>
       <td>Go</td>
