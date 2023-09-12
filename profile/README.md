@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>13 Sep 2023</td>
+      <td>SQL and PostgreSQL: The Complete Developer's Guide</td>
+      <td>SQL, PostgreSQL</td>
+      <td><a href="https://www.udemy.com/certificate/UC-f0acc90b-90e6-49c2-a7b3-a13bf2e8c112/">Link</a></td>
+      <td>22 Hours</td>
+    </tr>
+    <tr>
       <td>26 Aug 2023</td>
       <td>Working with Vue 3 and Go (Golang)</td>
       <td>Go, Vue</td>
