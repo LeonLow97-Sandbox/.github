@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>26 Sep 2023</td>
+      <td>The Linux Command Line Bootcamp: Beginner To Power User</td>
+      <td>Linux</td>
+      <td><a href="https://www.udemy.com/certificate/UC-675e0dd1-b3c5-4a3d-9f86-5cb3ddae6996/">Link</a></td>
+      <td>16 Hours</td>
+    </tr>
+    <tr>
       <td>13 Sep 2023</td>
       <td>SQL and PostgreSQL: The Complete Developer's Guide</td>
       <td>SQL, PostgreSQL</td>
