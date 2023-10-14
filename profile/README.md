@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>14 Oct 2023</td>
+      <td>Working with Concurrency in Go (Golang)</td>
+      <td>Go</td>
+      <td><a href="https://www.udemy.com/certificate/UC-dfd5bee6-44aa-4010-8f9a-a565c805e176/">Link</a></td>
+      <td>9.5 Hours</td>
+    </tr>
+    <tr>
       <td>26 Sep 2023</td>
       <td>The Linux Command Line Bootcamp: Beginner To Power User</td>
       <td>Linux</td>
