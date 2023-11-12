@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>12 Nov 2023</td>
+      <td>Working with Microservices in Go (Golang)</td>
+      <td>Go</td>
+      <td><a href="https://www.udemy.com/certificate/UC-56ab48ed-bc84-4aa4-b2d3-ebcdc179d76e/">Link</a></td>
+      <td>11.5 Hours</td>
+    </tr>
+    <tr>
       <td>14 Oct 2023</td>
       <td>Working with Concurrency in Go (Golang)</td>
       <td>Go</td>
