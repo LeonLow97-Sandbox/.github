@@ -21,6 +21,20 @@
       <td>11.5 Hours</td>
     </tr>
     <tr>
+      <td>12 Nov 2023</td>
+      <td>The DevOps Essentials - The Handbook</td>
+      <td>DevOps</td>
+      <td><a href="https://www.udemy.com/certificate/UC-67a99824-6c4d-4acf-9ea9-705933e85126/">Link</a></td>
+      <td>2 Hours</td>
+    </tr>
+    <tr>
+      <td>9 Nov 2023</td>
+      <td>SDLC - Software Development Life Cycle</td>
+      <td> - </td>
+      <td><a href="https://www.udemy.com/certificate/UC-e1ffd9ff-8aa6-4d96-8e98-da56a156a96b/">Link</a></td>
+      <td>2.5 Hours</td>
+    </tr>
+    <tr>
       <td>14 Oct 2023</td>
       <td>Working with Concurrency in Go (Golang)</td>
       <td>Go</td>
