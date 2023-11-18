@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>18 Nov 2023</td>
+      <td>Building a Module in Go (Golang)</td>
+      <td>Go</td>
+      <td><a href="https://www.udemy.com/certificate/UC-3dee459c-7ec9-44d8-ba04-5781c39b7251/">Link</a></td>
+      <td>4 Hours</td>
+    </tr>
+    <tr>
       <td>15 Nov 2023</td>
       <td>Design Microservices Architecture with Patterns and Principles</td>
       <td>Microservices</td>
