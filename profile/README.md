@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>29 Nov 2023</td>
+      <td>Docker and Kubernetes: The Complete Guide</td>
+      <td>Docker, Kubernetes</td>
+      <td><a href="https://www.udemy.com/certificate/UC-30845639-7855-44d8-a041-76e75446f76c/">Link</a></td>
+      <td>22 Hours</td>
+    </tr>
+    <tr>
       <td>28 Nov 2023</td>
       <td>Kubernetes for the Absolute Beginners - Hands-on</td>
       <td>Kubernetes</td>
