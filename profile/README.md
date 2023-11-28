@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>28 Nov 2023</td>
+      <td>Kubernetes for the Absolute Beginners - Hands-on</td>
+      <td>Kubernetes</td>
+      <td><a href="https://www.udemy.com/certificate/UC-cf1421e5-2b2f-47bf-9f5f-db2f21d6f357/">Link</a></td>
+      <td>6 Hours</td>
+    </tr>
+    <tr>
       <td>18 Nov 2023</td>
       <td>Building a Module in Go (Golang)</td>
       <td>Go</td>
