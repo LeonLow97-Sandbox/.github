@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>7 Dec 2023</td>
+      <td>Working with WebSockets in Go (Golang)</td>
+      <td>Go, WebSocket</td>
+      <td><a href="https://www.udemy.com/certificate/UC-bb774e3b-6658-4cfc-94bd-beede04ef9cf/">Link</a></td>
+      <td>14 Hours</td>
+    </tr>
+    <tr>
       <td>2 Dec 2023</td>
       <td>Docker for the Absolute Beginner - Hands On</td>
       <td>Docker</td>
