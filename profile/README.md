@@ -14,6 +14,13 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>19 May 2024</td>
+      <td>Master Redis - From Beginner to Advanced</td>
+      <td>Redis</td>
+      <td><a href="https://www.udemy.com/certificate/UC-2e3f46c1-39fd-429e-9b5e-14f9251a480b/">Link</a></td>
+      <td>22 Hours</td>
+    </tr>
+    <tr>
       <td>7 Dec 2023</td>
       <td>Working with WebSockets in Go (Golang)</td>
       <td>Go, WebSocket</td>
