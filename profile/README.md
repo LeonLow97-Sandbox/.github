@@ -14,11 +14,39 @@
       <th>Duration</th>
     </tr>
     <tr>
+      <td>31 Oct 2024</td>
+      <td>Ultimate AWS Certified Cloud Practitioner CLF-C02</td>
+      <td>AWS</td>
+      <td><a href="https://www.udemy.com/certificate/UC-5f8bb1b0-97c0-4e72-939b-bfd837a74908/">Link</a></td>
+      <td>15 Hours</td>
+    </tr>
+    <tr>
+      <td>23 June 2024</td>
+      <td>Kubernetes Certified Application Developer (CKAD) with Tests</td>
+      <td>Kubernetes</td>
+      <td><a href="https://www.udemy.com/certificate/UC-18bb8e45-c901-494a-ad25-1027b926aeee/">Link</a></td>
+      <td>15.5 Hours</td>
+    </tr>
+    <tr>
       <td>19 May 2024</td>
       <td>Master Redis - From Beginner to Advanced</td>
       <td>Redis</td>
       <td><a href="https://www.udemy.com/certificate/UC-2e3f46c1-39fd-429e-9b5e-14f9251a480b/">Link</a></td>
       <td>22 Hours</td>
+    </tr>
+    <tr>
+      <td>8 Dec 2023</td>
+      <td>Agile Fundamentals: Including Scrum & Kanban</td>
+      <td>Agile, Scrum</td>
+      <td><a href="https://www.udemy.com/certificate/UC-5b87f2c0-7321-4c04-8b12-34a62a0f8582/">Link</a></td>
+      <td>4.5 Hours</td>
+    </tr>
+    <tr>
+      <td>8 Dec 2023</td>
+      <td>Introduction to Computer Networks for Non-Techies</td>
+      <td>Computer Networking</td>
+      <td><a href="https://www.udemy.com/certificate/UC-041a9876-5759-4d2c-8725-ef238abfddba/">Link</a></td>
+      <td>18.5 Hours</td>
     </tr>
     <tr>
       <td>7 Dec 2023</td>
@@ -47,6 +75,13 @@
       <td>Kubernetes</td>
       <td><a href="https://www.udemy.com/certificate/UC-cf1421e5-2b2f-47bf-9f5f-db2f21d6f357/">Link</a></td>
       <td>6 Hours</td>
+    </tr>
+    <tr>
+      <td>26 Nov 2023</td>
+      <td>Build Responsive Real-World Websites with HTML and CSS</td>
+      <td>HTML, CSS</td>
+      <td><a href="https://www.udemy.com/certificate/UC-24cd07f5-9fcd-4f33-9d64-f17593157b1e/">Link</a></td>
+      <td>37.5 Hours</td>
     </tr>
     <tr>
       <td>18 Nov 2023</td>
@@ -236,6 +271,13 @@
       <td>Node</td>
       <td><a href="https://www.udemy.com/certificate/UC-e1f99207-2779-4327-8910-e4dc8648b6d3/" target="_blank">Link</a></td>
       <td>9 Hours</td>
+    </tr>
+    <tr>
+      <td>15 Dec 2021</td>
+      <td>Data Analysis with Pandas and Python</td>
+      <td>Python, Pandas</td>
+      <td><a href="https://www.udemy.com/certificate/UC-697f6cee-8293-4115-baa6-551819276734/" target="_blank">Link</a></td>
+      <td>20.5 Hours</td>
     </tr>
   </table>
 </details>
